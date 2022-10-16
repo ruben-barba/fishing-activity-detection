@@ -1,3 +1,5 @@
 *
 */
 !.gitignore
+!new_data
+!training_data
